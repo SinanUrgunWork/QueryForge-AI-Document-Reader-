@@ -106,7 +106,7 @@ pip install fastapi uvicorn langchain langchain-openai faiss-cpu \
 pip freeze > requirements.txt
 ```
 
-Create `.env.example`:
+Create `.env`:
 
 ```
 OPENAI_API_KEY=your_key_here
